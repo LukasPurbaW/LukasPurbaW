@@ -6,7 +6,7 @@ I'm Lukas from Indonesia, and I'm a machine learning developer and also a data a
 
 ### 👨‍💻 Little About Me
 * 👾 Interested in Data Science and Machine Learning   
-* 🐍 Python and Jupyter Notebook Users
+* 🐍 Python and Jupyter Notebook User
 * 📚 Reader and a Novice Writer
 
 ### ⚔️ Projects Done
