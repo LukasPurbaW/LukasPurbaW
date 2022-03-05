@@ -11,7 +11,7 @@ I'm Lukas from Indonesia, and I'm a machine learning developer and also a data a
 
 ### ⚔️ Projects Done
 * 📐 [Data Analytics Pipeline with Clustering](https://github.com/LukasPurbaW/Data-Analytics-Workflow)
-* 💡 [Recommendation System using Apriori](https://github.com/LukasPurbaW/Item_Recommendation)
+* ✏️ [Recommendation System using Apriori](https://github.com/LukasPurbaW/Item_Recommendation)
 
 ### 🚧 On-Going Projects
 * 💳 Credit Card Fraud Detection
