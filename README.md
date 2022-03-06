@@ -18,6 +18,7 @@ I'm Lukas from Indonesia, and I'm a machine learning developer and also a data a
 * 🕵️ Crowd Detection using Mask-RCNN
 * 🧬 Data Science with Neural Network Pipeline
 * 🍹 Wine Quality Classification
+* 🍪 Good Rating Chocolate Classification
 
 
 ### 🛠️ Languages and Tools:
