@@ -19,6 +19,7 @@ I'm Lukas from Indonesia, and I'm a machine learning developer and also a data a
 * 🧬 Data Science with Neural Network Pipeline
 * 🍹 Wine Quality Classification
 * 🍪 Good Rating Chocolate Classification
+* 💯 100 Days of Deep Learning
 
 
 ### 🛠️ Languages and Tools:
