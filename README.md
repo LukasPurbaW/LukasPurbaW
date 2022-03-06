@@ -19,9 +19,10 @@ I'm Lukas from Indonesia, and I'm a machine learning developer and also a data a
 * 🧬 Data Science with Neural Network Pipeline
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+### 🛠️ Languages and Tools:
+* <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="15" height="15"/> Python </a>
+* <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="15" height="15"/> OpenCV </a>
+* <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15" height="15"/> Tensorflow </a>
 
 ## 📈 Github Stats
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LukasPurbaW&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Lukas' GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LukasPurbaW&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Lukas' Most Used Language">
