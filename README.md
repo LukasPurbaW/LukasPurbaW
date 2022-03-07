@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-purba-w/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lukaspurbaw)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lukaspurbaw)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukaspurbaw@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paw_lukas)  
+
 I'm Lukas from Indonesia, and I'm a machine learning developer and also a data analyst. I really like working with python to simply do an automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/lukas-purba-w/ and my medium at https://medium.com/@lukaspurbaw
 
 ### 👨‍💻 Little About Me
