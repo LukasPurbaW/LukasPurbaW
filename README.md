@@ -9,6 +9,11 @@
 
 I'm Lukas from Indonesia, and I'm a machine learning developer and also a data analyst. I really like working with python to simply do an automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/lukas-purba-w/ and my medium at https://medium.com/@lukaspurbaw
 
+☕ Buy me a coffee  [ko-fi.com/lukaspurbaw](ko-fi.com/lukaspurbaw)  
+🍣 Trakteer.id [trakteer.id/lukaspurbaw](https://trakteer.id/lukaspurbaw)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lukaspurbaw)
+
 ### 👨‍💻 Little About Me
 * 👾 Interested in Data Science and Machine Learning   
 * 🐍 Python and Jupyter Notebook User
