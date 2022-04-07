@@ -6,6 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukaspurbaw@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paw_lukas)
   
+![sunset-anime](https://user-images.githubusercontent.com/72651891/162166893-d8f3f04e-da04-4e28-b3dd-c34c5269eaeb.gif)
 
 I'm Lukas from Indonesia, and I'm a machine learning developer and also a data analyst. I really like working with python to simply do an automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/lukas-purba-w/ and my medium at https://medium.com/@lukaspurbaw
 
